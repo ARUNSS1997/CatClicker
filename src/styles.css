@@ -1,0 +1,23 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+img {
+  max-width: 420px;
+  max-height: 420px;
+}
+
+button {
+  padding: 10px;
+  outline: none;
+  border-radius: 5px;
+}
+
+img,
+button {
+  margin-top: 20px;
+}
